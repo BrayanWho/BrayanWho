@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BryanWho
+- 👋 Hi, I’m @BrayanWho
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate 
