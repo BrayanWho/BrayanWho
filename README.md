@@ -2,7 +2,6 @@
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate 
-- 📫 How to reach me ...
 
 <!---
 BryanWho/BryanWho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
