@@ -1,18 +1,18 @@
-# Hello, I'm @BrayanWho 👋
+# Hello, I'm Brayan (@BrayanWho) 👋
 
 Mathematician at heart.
 
-Data Analytics Engineering Student, Linux enthusiast and lifelong learner.
+Data Analytics Engineering Student, Linux enthusiast, and lifelong learner.
 
-I enjoy exploring mathematics through algorithms, Python and software. My goal is to build tools, visualizations and projects that make mathematical ideas easier to understand.
+I enjoy exploring mathematics through algorithms, Python, and software. I use programming to transform mathematical ideas into tools, visualizations, and projects that make complex concepts easier to understand.
 
 ## The TARDIS is currently visiting
 
-- 🧩 Project Euler
-- 🌐 The Erdős Number Project
-- 📚 The Doctor's Library
-- 🎥 Mathematics & Programming on YouTube
-- 🧮 Algorithms and Optimization
+- 🧩 Solving Project Euler
+- 🌐 Building the Erdős Number Project
+- 📚 Growing The Doctor's Library
+- 🎥 Creating mathematics and programming content on YouTube
+- 🧮 Exploring algorithms and optimization
 
 ## Interests
 
@@ -20,16 +20,17 @@ I enjoy exploring mathematics through algorithms, Python and software. My goal i
 - Algorithms
 - Data Analytics
 - Scientific Computing
-- Open Source
+- Python
 - Linux
+- Open Source
 
 ## Find me
 
-🌐 Website: https://brayanwho.github.io/
+🌐 **Website:** [brayanwho.github.io](https://brayanwho.github.io)
 
-📄 CV: https://brayanwho.github.io/cv.pdf
+📄 **Curriculum Vitae:** [CV](https://brayanwho.github.io/cv.pdf)
 
-📺 YouTube: https://www.youtube.com/@BrayanWho
+📺 **YouTube:** [@BrayanWho](https://www.youtube.com/@BrayanWho)
 
 ---
 
