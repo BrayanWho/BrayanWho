@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @BrayanWho
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate 
+# Hello, I'm @BrayanWho 👋
 
-<!---
-BryanWho/BryanWho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Mathematician at heart.
+Data Analytics Engineering Student.
+Linux enthusiast.
+Doctor Who fan.
+
+I love solving problems, writing Python, and turning mathematical ideas into software.
+
+## Current Mission
+
+- 🧩 Solving Project Euler
+- 🌐 Building the Erdős Number Project
+- 📚 Growing The Doctor's Library
+- 🎥 Creating mathematics and programming content
+- 🧮 Exploring algorithms and optimization
+
 [![CV](https://img.shields.io/badge/CV-PDF-blue)](https://brayanwho.github.io/cv.pdf)
+
+> *I enjoy exploring mathematics through code.*
